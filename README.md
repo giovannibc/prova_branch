@@ -2,4 +2,4 @@
 
 scrittura su server1
 
-scrittura locale2
+scrittura locale12
